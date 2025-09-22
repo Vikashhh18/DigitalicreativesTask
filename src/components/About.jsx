@@ -1,4 +1,4 @@
-import image1 from '../Image/Image4.webp'
+import image4 from '../Image/Image4.webp'
 
 export default function About() {
   return (
@@ -7,7 +7,7 @@ export default function About() {
         
         <div>
           <img
-            src={image1}
+            src={image4}
             alt="H.N Sarees"
             className="rounded-2xl shadow-lg"
           />
