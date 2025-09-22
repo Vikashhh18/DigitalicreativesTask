@@ -1,4 +1,5 @@
-import image4 from '../Image/Image4.webp'
+// import image4 from '../Image/Image4.webp'
+import image4 from '../Image/Image4.webp';
 
 export default function About() {
   return (
