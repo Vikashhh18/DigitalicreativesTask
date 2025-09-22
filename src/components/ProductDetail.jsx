@@ -1,10 +1,10 @@
 import { useParams, Link } from "react-router-dom";
 import image1 from '../Image/shopping.webp';
-import image2 from '../Image/Image2.webp';
-import image3 from '../Image/Image3.webp';
-import image4 from '../Image/Image4.webp';
-import image5 from '../Image/Image5.webp';
-import image6 from '../Image/Image6.webp';
+import image2 from '../Image/image2.webp';
+import image3 from '../Image/image3.webp';
+import image4 from '../Image/image4.webp';
+import image5 from '../Image/image5.webp';
+import image6 from '../Image/image6.webp';
 
 const productData = [
   {
