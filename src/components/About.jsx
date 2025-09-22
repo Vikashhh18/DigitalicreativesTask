@@ -1,6 +1,4 @@
-// import image4 from '../Image/Image4.webp'
-import image4 from '../Image/Image4.webp';
-
+import image4 from '../Image/image4.webp';
 export default function About() {
   return (
     <section id="about" className="py-16 bg-gray-50">
